@@ -40,7 +40,7 @@ Considering the time required to incorporate this project into a class:
 
 I think the students can assemble the rocket in about 3 hours.
 
-I think, with intensive coaching and plenty of available tools, they can assemble the electronics in another 3-5 hours. The time will depend on their experience and skill. Students who are already "makers" on their own will be prized role-models! Unfortunately, our experience has been that students rarely acquire "maker" skills during their usual college or university courses. This experience includes, surprisingly, OSU ECE seniors...
+I think, with intensive coaching and plenty of available tools, they can assemble the electronics in another 3-5 hours. The time will depend on their experience and skill. Students who are already "makers" on their own will be prized role-models! Unfortunately, our experience has been that students rarely acquire "maker" skills during their usual college or university courses. 
 
 A cheerful, competent Teaching Assistant will be invaluable!
 
@@ -92,6 +92,8 @@ Computer Science Instructor: Computer Systems Department
    Microcontroller hardware/software development,
    
    Advisor, LBCC Space Exploration Team
+   
+   NAR # 100949 SR
    
 swansop@linnbenton.edu 
 
