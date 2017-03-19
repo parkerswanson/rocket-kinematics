@@ -81,16 +81,24 @@ Of course all those functions are available Off The Shelf, but it's more fun if 
 
 As I said, I intend to polish up this experiment and present it as a workshop at a AAPT National Meeting (and in Oregon if requested). 
 
-Any questions, please ask. Thanks for everything!
-Parker
+Any questions, please ask.
 
 Parker Swanson, MSEE; amateur radio KO7Q
+
 Computer Science Instructor: Computer Systems Department
+
    Software and Electrical Engineering,
+   
    Microcontroller hardware/software development,
+   
    Advisor, LBCC Space Exploration Team
-swansop@linnbenton.edu   
+   
+swansop@linnbenton.edu 
+
 (office): 541 917-4274
+
 Linn-Benton Community College
+
 6500 Pacific Blvd. SW
+
 Albany, OR 97321, USA
