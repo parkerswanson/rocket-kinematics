@@ -54,7 +54,7 @@ As I mentioned, I will be writing up lists and instructions. Meanwhile, please f
 
 Thanks for your interest in "Microcontrollers in Research & Design: Kinematics of Model Rockets".
 Parker
----------- Forwarded message ----------
+
 From: Parker Swanson <swansop@linnbenton.edu>
 Date: Fri, Mar 3, 2017 at 8:33 PM
 Subject: Re: Rockets and data collection
@@ -83,7 +83,7 @@ As I said, I intend to polish up this experiment and present it as a workshop at
 
 Any questions, please ask. Thanks for everything!
 Parker
-------------------------------------------------------------------------------------------
+
 Parker Swanson, MSEE; amateur radio KO7Q
 Computer Science Instructor: Computer Systems Department
    Software and Electrical Engineering,
@@ -94,5 +94,3 @@ swansop@linnbenton.edu
 Linn-Benton Community College
 6500 Pacific Blvd. SW
 Albany, OR 97321, USA
-------------------------------------------------------------------------------------------
-
