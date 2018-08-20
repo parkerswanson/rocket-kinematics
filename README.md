@@ -8,7 +8,7 @@ I've completed and bench-tested the latest rev of the electronics. I'm pretty co
 
 The code and an ExpressPCB .pcb file are downloadable from a public repository at:
 
-https://github.com/parkerswanson/PH131Winter2017
+https://github.com/parkerswanson/RocketKinematics
 
 I will put together a list of parts and tools required (or recommended) over the next week or so. I'll also write summary instructions. Of course parts go out of stock and adjustments are made. For example, the Estes rocket we used in Winter 2017 term was purchased very cheaply on a close-out sale. For Spring term I'm recommending (and ordering for LBCC):
 
