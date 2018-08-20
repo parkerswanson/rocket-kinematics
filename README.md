@@ -1,6 +1,8 @@
-# PH131Winter2017
+# RocketKinematics
 
 Status update: 
+
+Winter 2017
 
 I've completed the Arduino code needed for this project. (Of course, interested and able students - and anyone else - are *very* welcome to replace or improve it!)
 
