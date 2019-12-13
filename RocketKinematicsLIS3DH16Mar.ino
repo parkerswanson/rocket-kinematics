@@ -1,12 +1,13 @@
 /* 
  PH131 Winter 2017
+ Uppdated Dec 2019 to set DATA LED HIGH true
+ NEEDS TESTING!!
  Arduino program to record rocket kinematics
  based on SD card datalogger
  by Tom Igoe`
  This example code is in the public domain.
  This version uses LIS3DH accelerometer
  and BMP280 pressure/temperature sensor
- parker 16 mar 17
  */
 
 //#define DEBUG  // Comment this out if USB-->PC isn't connected
@@ -25,7 +26,7 @@ float mbar = baroInHg * 33.8639;
 #endif
 
 #define chipSelect 4 // for SD
-#define ledPin 19    // pin 19 is marked A5: turns on green LED, low true
+#define ledPin 19    // pin 19 is marked A5: turns on green LED, HIGH true
 
 #include <SD.h>
 #include <Wire.h>
@@ -55,7 +56,7 @@ bool first_loop;
 void setup() {
 
   pinMode(ledPin, OUTPUT);
-  digitalWrite(ledPin, HIGH);  // low true: turns off LED
+  digitalWrite(ledPin, LOW);  // HIGH true: turns off LED
   
   #ifdef DEBUG 
     // Open serial communications and wait for port to open:
@@ -185,7 +186,7 @@ void loop() {
       dataFile.println(dataString);
       DEBUG_PRINTLN(dataString);
       dataString = "";       
-      digitalWrite(ledPin, LOW);  // indicate that loop has started      
+      digitalWrite(ledPin, HIGH);  // indicate that loop has started      
       first_loop = false;
       start_time = millis();
     }
