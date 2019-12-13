@@ -16,6 +16,8 @@ This rocket is "Easy to Assemble" and large enough to carry our electronics, but
 
 https://www.apogeerockets.com/
 
+Parts from Apogee (listed on the "Parts list") include bulkhead disks and airframe tubes. Each 18" tube is bandsawed into 3 6" pieces to equip 3 rockets. Note that two 1/4" holes should be drilled in each rocket's payload tube, one just below the top bulkhead and one just above the bottom bulkhead. This is to equalize air pressure in the payload compartment with the atmospheric pressure outside the rocket - so the pressue sensor can sense atmospheric pressue. Look at the sample fully-assembled rocket for guidance.
+
 We will use Estes "E" class one-time-use black powder rocket motors. These require extra-cost HazMat shipping, so it's advisable to minimize the number of orders.
 
 Electronics:
