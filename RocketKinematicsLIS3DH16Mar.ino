@@ -263,9 +263,9 @@ int findMaxFileNr(File dir) {
 
 void setupFailed() {
   while (true) {
-    digitalWrite(ledPin, LOW);  // turn on LED
+    digitalWrite(ledPin, HIGH);  // turn on LED
     delay(500);
-    digitalWrite(ledPin, HIGH);  // turn off LED
+    digitalWrite(ledPin, LOW);  // turn off LED
     delay(500);    
   }
 }
