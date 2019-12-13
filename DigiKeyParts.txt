@@ -1,0 +1,56 @@
+Digi-Key Part Number 	HE516-ND 
+Manufacturer 	Littelfuse Inc. 	
+Manufacturer Part Number 	MITI-3V1-6-12.5 	
+Description 	SWITCH REED SPST-NO 250MA 170V 
+
+Digi-Key Part Number 	TLP222AF-ND 	
+Manufacturer 	Toshiba Semiconductor and Storage 	
+Manufacturer Part Number 	TLP222AF 	
+Description 	SSR RELAY SPST-NO 500MA 0-60V 	
+Manufacturer Standard Lead Time 	12 Weeks 	
+Detailed Description 	Solid State SPST-NO (1 Form A) 4-DIP (0.300", 7.62mm) 
+
+Digi-Key Part Number 	1212-1001-ND 	
+Manufacturer 	Preci-Dip 	
+Manufacturer Part Number 	110-87-304-41-001101 	
+Description 	CONN IC DIP SOCKET 4POS GOLD 	
+Manufacturer Standard Lead Time 	10 Weeks 	
+Detailed Description 	4 (2 x 2) Pos DIP, 0.3" (7.62mm) Row Spacing Socket Gold Through Hole 
+
+Digi-Key Part Number 	1497-1020-ND 	
+Manufacturer 	SunLED 	
+Manufacturer Part Number 	XLMDKVG59M 	
+Description 	LED GRN/RED DIFFUSED T-1 3/4 T/H 	
+Manufacturer Standard Lead Time 	6 Weeks 	
+Detailed Description 	Green, Red 570nm Green, 630nm Red LED Indication - Discrete 2.1V Green, 
+1.95V Red Radial - 3 Leads 
+
+Digi-Key Part Number 	BC2657CT-ND 	
+Manufacturer 	Vishay BC Components 	
+Manufacturer Part Number 	K101K10X7RF5UH5 	
+Description 	CAP CER 100PF 50V X7R RADIAL 	
+Manufacturer Standard Lead Time 	10 Weeks 	
+Detailed Description 	100pF ±10% 50V Ceramic Capacitor X7R Radial 
+
+Digi-Key Part Number 	1N914FS-ND 	
+Manufacturer 	ON Semiconductor 	
+Manufacturer Part Number 	1N914 	
+Description 	DIODE GEN PURP 100V 200MA DO35 	
+Manufacturer Standard Lead Time 	18 Weeks 	
+Detailed Description 	Diode Standard 100V 200mA Through Hole DO-35 
+
+Digi-Key Part Number 	62QBK-ND 	
+Manufacturer 	Yageo 	
+Manufacturer Part Number 	CFR-25JB-52-62R 	
+Description 	RES 62 OHM 1/4W 5% AXIAL 	
+Manufacturer Standard Lead Time 	16 Weeks 	
+Detailed Description 	62 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial Carbon Film 
+
+Digi-Key Part Number 	S330QCT-ND 	
+Manufacturer 	Stackpole Electronics Inc 	
+Manufacturer Part Number 	CFM14JT330R 	
+Description 	RES 330 OHM 1/4W 5% CF MINI 	
+Manufacturer Standard Lead Time 	15 Weeks 	
+Detailed Description 	330 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, 
+Safety Carbon Film 
+
