@@ -56,7 +56,7 @@ bool first_loop;
 void setup() {
 
   pinMode(ledPin, OUTPUT);
-  digitalWrite(ledPin, LOW);  // HIGH true: turns off LED
+  digitalWrite(ledPin, LOW);  // turns off LED
   
   #ifdef DEBUG 
     // Open serial communications and wait for port to open:
@@ -233,7 +233,7 @@ void loop() {
       dataFile.println("End of data capture, closing file");
       DEBUG_PRINTLN("End of data capture, closing file");
       dataFile.close();
-      digitalWrite(ledPin, HIGH);  // turn off the LED
+      digitalWrite(ledPin, LOW);  // turn off the LED
       while (true ) {
         ; // trap
       }
