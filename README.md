@@ -65,5 +65,7 @@ The electronics uses an Arduino Feather "Adalogger" from Adafruit, a 3-axis digi
 Of course all those functions are available Off The Shelf, but it's more fun if the students put some "skin in the game" by assembling electronics and loading up (and modifying if they want) the Arduino code. It would be possible, but somewhat frustrating, to assemble the electronics on a solderable kludge-board, but I laid out a little custom PCB for them (now on its 3rd rev.). All the supplies for the course, including a rocket kit, cost about $130. The rocket uses an Estes E12-6 motor (12 N average thrust, 6 secs delay between motor cutoff & parachute ejection), so the rockets fly to a satisfying 300m+ apogee.
 
 Any questions, please ask.
+
 Parker Swanson, MSEE; amateur radio KO7Q
+
 parkerwswanson@gmail.com
